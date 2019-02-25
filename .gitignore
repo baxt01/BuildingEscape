@@ -1,9 +1,9 @@
-*Binaries/
-*Build/
-*DerivedDataCache/
-*Intermediate/
-*Saved/
-/.VC.db
+*/Binaries/
+*/Build/
+*/DerivedDataCache/
+*/Intermediate/
+*/Saved/
+*.VC.db
 */Content/StarterContent/
-.vs
-.uasset
+*/.vs
+*.uasset
